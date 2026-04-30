@@ -77,5 +77,5 @@ This project demonstrates how SQL can be used to analyze business data and extra
 
 ## 👩‍💻 Author
 
-Roshani Yadav
+Roshani Yadav | 
 Aspiring Data Analyst
