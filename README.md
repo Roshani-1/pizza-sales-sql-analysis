@@ -75,6 +75,11 @@ This project demonstrates how SQL can be used to analyze business data and extra
 
 ---
 
+## 📊 Project Presentation
+[View Full Analysis PDF](./Pizza_Sales_SQL_Analysis.pdf)
+
+--- 
+
 ## 👩‍💻 Author
 
 Roshani Yadav | 
